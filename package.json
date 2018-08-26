@@ -1,0 +1,11 @@
+{
+  "name": "battleships",
+  "version": "1.0.0",
+  "description": "battleshipgs game",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "christian conrad",
+  "license": "ISC"
+}
